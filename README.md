@@ -3,10 +3,15 @@ Spring Boot CRUD de Produtos
 Este projeto é uma aplicação simples que demonstra operações CRUD (Create, Read, Update, Delete) para gerenciar produtos utilizando Spring Boot.
 
 Tecnologias Utilizadas
+
 Java 17
+
 Spring Boot
+
 Spring Data JPA
+
 HATEOAS
+
 PostgreSQL
 
 Configuração
